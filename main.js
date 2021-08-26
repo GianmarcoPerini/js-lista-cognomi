@@ -12,4 +12,4 @@ for (let i = 0; i < listaCognomi.length; i++){
 
 }
 
-ducument.getElementById("posizione").innerHTML = "ciao"
+document.getElementById("posizione").innerHTML = listaCognomi.indexOf(capitalizzazione) + 1
